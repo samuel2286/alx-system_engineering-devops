@@ -1,2 +1,10 @@
 #!/bin/bash
+<<<<<<< HEAD
 grep ^ [[:alpha:]] /etc/ssh/sshd_config
+=======
+<<<<<<< HEAD
+grep ^ [[:alpha:]] /etc/ssh/sshd_config
+=======
+grep [[:alpha:]*] /etc/ssh/sshd_config
+>>>>>>> d2730b67537e90ebada617c4217d833f5bf526ad
+>>>>>>> d35efa13a48ab175d84ed72e4e05bde6c79c732c
